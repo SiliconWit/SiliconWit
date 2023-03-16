@@ -8,4 +8,4 @@ Welcome to the SiliconWit Github profile! We are a platform dedicated to explori
 
 - Whether you're a student, teacher, researcher, or lifelong learner, SiliconWit has something for you. Let our content inspire and guide you on your problem-solving journey. Join us in preparing minds to solve tomorrow's challenges.
 
-- When creating new repositories, we follow a naming standard of small letters words separated by a dash, and strive to keep repository names as short as possible. 
+- When creating new repositories, we follow a naming standard of small letter words (this repo is an exception) separated by a dash, and strive to keep repository names as short as possible. 
